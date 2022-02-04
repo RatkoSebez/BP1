@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1642934667 source:c:\users\orz\desktop\sve\codeblocks\bp1projekat2\main.c
+	"stdio.h"
+	"stdlib.h"
+	"operacije_nad_datotekom.h"
+
+1642931808 c:\users\orz\desktop\sve\codeblocks\bp1projekat2\operacije_nad_datotekom.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<unistd.h>
+	<sys/types.h>
+	"definicije_struktura_podataka.h"
+
+1642928005 c:\users\orz\desktop\sve\codeblocks\bp1projekat2\definicije_struktura_podataka.h
+
+1642936557 source:c:\users\orz\desktop\sve\codeblocks\bp1projekat2\operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
